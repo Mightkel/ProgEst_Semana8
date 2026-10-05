@@ -1,0 +1,14 @@
+Notas: [67.0, 80.0, 92.0, 75.0]
+Promedio: 78.50
+Nota más alta: 92.0
+Nota más baja: 67.0
+
+Notas: [56.0, 72.0, 64.0]
+Promedio: 64.00
+Nota más alta: 72.0
+Nota más baja: 56.0
+
+Notas: [80.0, 92.0]
+Promedio: 86.00
+Nota más alta: 92.0
+Nota más baja: 80.0
