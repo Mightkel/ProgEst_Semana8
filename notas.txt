@@ -1,0 +1,22 @@
+Nombres: Maykel Josue Cruz Zamora
+Nota: 80.0
+
+Nombres: Humberto Rene Ruiz Ortega
+Nota: 75.0
+
+Nombres: Jose Adan Solorzano Almendarez
+Nota: 79.0
+
+Nombres: Jose Alfredo Baca Moreno
+Nota: 82.0
+
+=== Mejores 3 Estudiantes ===
+Estudiante: Jose Alfredo Baca Moreno | Nota: 82.0
+Estudiante: Maykel Josue Cruz Zamora | Nota: 80.0
+Estudiante: Jose Adan Solorzano Almendarez | Nota: 79.0
+
+Promedio: 79.00
+Nota más alta: 82.0
+Nota más baja: 75.0
+
+==================
